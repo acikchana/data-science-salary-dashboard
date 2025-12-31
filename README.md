@@ -79,7 +79,7 @@ The interactive dashboard was built using **Tableau** to support data-driven ins
 ## Repository Structure
 
 <pre>
-supermarket-sales-dashboard/
+data-science-salary-dashboard/
 ├── data/
 │   └── ds_salaries.csv
 ├── dashboard/
